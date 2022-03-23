@@ -8,7 +8,7 @@ Ccminer-X64-CHOX-2.4.3.5-Pro-鸡血版
 
 devfee：2.5%
 
-           0x10             CHOX (Chainox Core)
+          0x10             CHOX (Chainox Core)
           allium           Garlic double lyra2
           bastion          Hefty bastion
           bitcore          Timetravel-10
