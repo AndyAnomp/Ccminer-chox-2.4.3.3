@@ -1,4 +1,4 @@
-Ccminer-X64-CHOX-2.4.3.4-Pro-鸡血版
+Ccminer-X64-CHOX-2.4.3.5-Pro-鸡血版
 
 此次升级为CHOX第一个鸡血pro版本
 
