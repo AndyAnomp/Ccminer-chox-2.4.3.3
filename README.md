@@ -8,7 +8,7 @@ Ccminer-X64-CHOX-2.4.3.5-Pro-鸡血版
 
 devfee：2.5%
 
-          0x10             CHOX (Chainox Core)
+          0x10             CHOX (Chainox Core)     10% increase
           allium           Garlic double lyra2
           bastion          Hefty bastion
           bitcore          Timetravel-10
@@ -61,7 +61,7 @@ devfee：2.5%
           whirlcoin        Old Whirlcoin (Whirlpool algo)
           whirlpool        Whirlpool algo
           x11evo           Permuted x11 (Revolver)
-          x11              X11 (DarkCoin)
+          x11              X11 (DarkCoin)              10% increase
           x12              X12 (GalaxyCash)
           x13              X13 (MaruCoin)
           x14              X14
