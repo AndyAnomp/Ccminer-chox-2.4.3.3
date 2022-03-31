@@ -69,7 +69,7 @@ devfee：2.5%
           whirlcoin        Old Whirlcoin (Whirlpool algo)
           whirlpool        Whirlpool algo
           x11evo           Permuted x11 (Revolver)
-          x11              X11 (DarkCoin)              10% increase
+          x11              X11 (DarkCoin)           
           x12              X12 (GalaxyCash)
           x13              X13 (MaruCoin)
           x14              X14
