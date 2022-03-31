@@ -12,6 +12,8 @@ Ccminer-X64-CHOX-2.4.3.9-Pro
 
 高端N卡默认强度为-i 22，中端N卡默认强度为21，低端N卡默认强强度为20.   核心超频部分各位矿工自己尝试
 
+已知BUG问题，X21S算法目前还不能正常的工作
+
 devfee：2.5%
 
           0x10             CHOX (Chainox Core)     10% increase
@@ -73,7 +75,10 @@ devfee：2.5%
           x14              X14
           x15              X15
           x16r             X16R (Raven)
+          x16rt            X16R (Raven)  
+          x16rv2           X16R (Raven)              
           x16s             X16S
           x17              X17
+          x21s             X21S          
           wildkeccak       Boolberry
           zr5              ZR5 (ZiftrCoin)
