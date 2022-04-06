@@ -1,6 +1,6 @@
 2022-4-7  v2.4.4.0
 1. Repair GTX 10XX, GTX 16XX, RTX 20XX, RTX 30XX all series graphics cards to increase computing power by 20%.
-2. Due to the limitation of memory bandwidth, dual-channel DDR3 1333 frequency memory is required to fully utilize the computing power, which can only be improved by 10/100 in single-channel memory.
+2. Due to the limitation of memory bandwidth, dual-channel DDR3 1333 frequency or higher frequency memory is required to fully utilize the computing power, and single-channel memory can only increase by 10/100.
 3. Fix the compatibility with sm50, sm52, sm60, sm61, sm70, sm75, sm80, sm86 architecture graphics cards.
 4. CUDA 11.1 version development, requires NVIDIA >=452.39 or above driver to use.
 5. There are only so many graphics cards in my hands, and the improvement effect of other graphics cards needs to be tested by yourself. This is a major update and increase in computing power. It is recommended that every user upgrade to the latest version 2.4.4.0
