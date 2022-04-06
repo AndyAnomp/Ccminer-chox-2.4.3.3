@@ -1,18 +1,17 @@
-Ccminer-X64-CHOX-2.4.3.9-Pro
+2022-4-7  v2.4.4.0
+1. Repair GTX 10XX, GTX 16XX, RTX 20XX, RTX 30XX all series graphics cards to increase computing power by 20%.
+2. Due to the limitation of memory bandwidth, dual-channel DDR3 1333 frequency memory is required to fully utilize the computing power, which can only be improved by 10/100 in single-channel memory.
+3. Fix the compatibility with sm50, sm52, sm60, sm61, sm70, sm75, sm80, sm86 architecture graphics cards.
+4. CUDA 11.1 version development, requires NVIDIA >=452.39 or above driver to use.
+5. There are only so many graphics cards in my hands, and the improvement effect of other graphics cards needs to be tested by yourself. This is a major update and increase in computing power. It is recommended that every user upgrade to the latest version 2.4.4.0
+6. The computing power is as follows:			  
+	 1060 6G  11.3MH
+	 1070 8G  16MH
+	 3070 8G  31.7MH
+	 2080 8G  Single-channel DDR3 1333 frequency 23.5MH, under dual-channel, the computing power is expected to be 25-26MH				 
+Notice：All supported graphics cards will have a significant increase in computing power with dual-channel or multi-channel memory
 
-修复BUG，提高稳定性
-
-目前对GTX 9xx，10xx，16xx，20xx等显卡大约提升10%，支持rtx30xx系列显卡
-
-大部分显卡有100分之10的算力，实测GTX 960 从5MH提升到5.7MH，1060 6G从8.8MH提升到9.8MH，
-
-修复对sm50，sm52，sm60，sm61，sm70，sm75架构显卡的兼容性，支持rtx30xx系列显卡
-
-其他型号N卡提升需要你们自己尝试
-
-高端N卡默认强度为-i 22，中端N卡默认强度为21，低端N卡默认强强度为20.   核心超频部分各位矿工自己尝试
-
-已知BUG问题，X21S算法目前还不能正常的工作
+Known bug, X21S algorithm is not working properly yet
 
 devfee：2.5%
 
