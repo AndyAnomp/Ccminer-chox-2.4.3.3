@@ -5,7 +5,7 @@
 4. CUDA 11.1 version development, requires NVIDIA >=452.39 or above driver to use.
 5. There are only so many graphics cards in my hands, and the improvement effect of other graphics cards needs to be tested by yourself. This is a major update and increase in computing power. It is recommended that every user upgrade to the latest version 2.4.4.0
 6. The computing power is as follows:	
-7. 		  
+ 		  
 	 1060 6G  Single-channel DDR3 1333 frequency 9.8MH, under dual-channel, the computing power is expected to be 11.3MH
 	 
 	 1070 8G  Single-channel DDR3 1333 frequency 14.5MH, under dual-channel, the computing power is expected to be 16-16.5MH	  
