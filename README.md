@@ -18,4 +18,4 @@ Known bug, X21S algorithm is not working properly yet
 
 devfee：2.5%
 
-          0x10             CHOX (Chainox Core)     10% increase
+          0x10             CHOX (Chainox Core)     10%-20% increase
