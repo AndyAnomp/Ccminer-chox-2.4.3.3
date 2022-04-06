@@ -4,11 +4,16 @@
 3. Fix the compatibility with sm50, sm52, sm60, sm61, sm70, sm75, sm80, sm86 architecture graphics cards.
 4. CUDA 11.1 version development, requires NVIDIA >=452.39 or above driver to use.
 5. There are only so many graphics cards in my hands, and the improvement effect of other graphics cards needs to be tested by yourself. This is a major update and increase in computing power. It is recommended that every user upgrade to the latest version 2.4.4.0
-6. The computing power is as follows:			  
+6. The computing power is as follows:	
+7. 		  
 	 1060 6G  11.3MH
+	 
 	 1070 8G  16MH
+	 
 	 3070 8G  31.7MH
-	 2080 8G  Single-channel DDR3 1333 frequency 23.5MH, under dual-channel, the computing power is expected to be 25-26MH				 
+	 
+	 2080 8G  Single-channel DDR3 1333 frequency 23.5MH, under dual-channel, the computing power is expected to be 25-26MH	
+	 
 Notice：All supported graphics cards will have a significant increase in computing power with dual-channel or multi-channel memory
 
 Known bug, X21S algorithm is not working properly yet
