@@ -8,8 +8,6 @@
 7. 		  
 	 1060 6G  11.3MH
 	 
-	 1070 8G  16MH
-	 
 	 3070 8G  31.7MH
 	 
 	 2080 8G  Single-channel DDR3 1333 frequency 23.5MH, under dual-channel, the computing power is expected to be 25-26MH	
