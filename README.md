@@ -10,7 +10,7 @@
 	 
 	 1070 8G  Single-channel DDR3 1333 frequency 14.5MH, under dual-channel, the computing power is expected to be 16-16.5MH	  
 	 
-	 3070 8G  31.7MH
+	 3070 8G 31.7MH
 	 
 	 2080 8G  Single-channel DDR3 1333 frequency 23.5MH, under dual-channel, the computing power is expected to be 25-26MH	
 	 
