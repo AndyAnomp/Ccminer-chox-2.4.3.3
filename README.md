@@ -1,4 +1,4 @@
-2022-4-7  v2.4.4.0
+2022-4-7  v2.4.4.0W
 1. Repair GTX 10XX, GTX 16XX, RTX 20XX, RTX 30XX all series graphics cards to increase computing power by 20%.
 2. Due to the limitation of memory bandwidth, dual-channel DDR3 1333 frequency or higher frequency memory is required to fully utilize the computing power, and single-channel memory can only increase by 10/100.
 3. Fix the compatibility with sm50, sm52, sm60, sm61, sm70, sm75, sm80, sm86 architecture graphics cards.
