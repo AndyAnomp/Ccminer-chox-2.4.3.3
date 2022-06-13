@@ -1,8 +1,9 @@
 2022-4-7  v2.4.4.0W
-1. Repair GTX 10XX,  10.7M increase 13.3M， increase %25 
-2.        GTX 1660S, 10M increase 15M， increase %50  
-3.        RTX 20XX,  increase %30-50
-4.        RTX 30XX   increase %20
+1. Repair 
+2.        GTX 1060 for p106-100,  10.7M increase 13.3M， increase %25 
+3.        GTX 1660S, 10M increase 15M， increase %50  
+4.        RTX 20XX,  increase %30-50
+5.        RTX 30XX   increase %20
 6. Due to the limitation of memory bandwidth, dual-channel DDR3 1333 frequency or higher frequency memory is required to fully utilize the computing power, and single-channel memory can only increase by 10/100.
 7. Fix the compatibility with sm50, sm52, sm60, sm61, sm70, sm75, sm80, sm86 architecture graphics cards.
 8. CUDA 11.1 version development, requires NVIDIA >=452.39 or above driver to use.
